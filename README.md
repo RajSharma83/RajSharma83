@@ -1,4 +1,4 @@
-# Hi there, I'm Raj Sharma 👋
+# 𝓡𝓪𝓳 𝓢𝓱𝓪𝓻𝓶𝓪 👋
 
 🚀 Strong Frontend Skills | Currently exploring ML | Open to learning and projects
 
@@ -11,9 +11,9 @@ Always eager to learn and grow in the tech world.
 ---
 
 ### 🔗 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&gradient=linear)](https://github.com/yourusername) &nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&gradient=linear)](https://linkedin.com/in/yourprofile) &nbsp;&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white&gradient=linear)](https://instagram.com/yourprofile)
 
 ---
 
@@ -22,11 +22,18 @@ Always eager to learn and grow in the tech world.
 
 ---
 
-### 🎯 Fun Fact
-- "Code, Learn, Repeat!"  
-- Always curious about AI, ML, and frontend magic ✨
+### 🎯 Motto
+"Code, Learn, Repeat!" ✨
 
 ---
 
 ### ⚡ GitHub Stats
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=false&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=false)
+
+---
+
+### 🎨 Extra Professional Touch
+- Animated badges and gradient icons make your profile **look dynamic**.  
+- Clean layout keeps it **professional and readable**.  
+- Works well on both **light and dark GitHub themes**.
