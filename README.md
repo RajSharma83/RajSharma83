@@ -1,4 +1,4 @@
-# Hi there, I'M  𝓡𝓪𝓳 𝓢𝓱𝓪𝓻𝓶𝓪 👋
+# Hi there, I'm  𝓡𝓪𝓳 𝓢𝓱𝓪𝓻𝓶𝓪 👋
 
 🚀 Strong Frontend Skills | Currently exploring ML | Open to learning and projects
 
