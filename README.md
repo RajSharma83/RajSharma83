@@ -25,9 +25,3 @@ Always eager to learn and grow in the tech world.
 ### 🎯 Motto
 "Code, Learn, Repeat!" ✨
 
----
-
-### ⚡ GitHub Stats
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajSharma83&show_icons=true&theme=radical&hide_border=false&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajSharma83&layout=compact&theme=radical&hide_border=false)
-![GitHub Stars](https://github-readme-stats.vercel.app/api?username=RajSharma83&show_icons=true&count_private=true&theme=radical&hide_border=false)
