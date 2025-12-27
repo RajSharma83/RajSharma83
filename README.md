@@ -1,4 +1,4 @@
-# 𝓡𝓪𝓳 𝓢𝓱𝓪𝓻𝓶𝓪 👋
+# Hi there, I'm  𝓡𝓪𝓳 𝓢𝓱𝓪𝓻𝓶𝓪 👋
 
 🚀 Strong Frontend Skills | Currently exploring ML | Open to learning and projects
 
@@ -28,12 +28,7 @@ Always eager to learn and grow in the tech world.
 ---
 
 ### ⚡ GitHub Stats
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=false&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=false)
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajSharma83&show_icons=true&theme=radical&hide_border=false&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajSharma83&layout=compact&theme=radical&hide_border=false)
 
----
 
-### 🎨 Extra Professional Touch
-- Animated badges and gradient icons make your profile **look dynamic**.  
-- Clean layout keeps it **professional and readable**.  
-- Works well on both **light and dark GitHub themes**.
