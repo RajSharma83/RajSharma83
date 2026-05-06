@@ -12,7 +12,7 @@ Always eager to learn and grow in the tech world.
 
 ### 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&gradient=linear)](https://github.com/RajSharma83) &nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&gradient=linear)](https://linkedin.com/in/) &nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&gradient=linear)](https://www.linkedin.com/in/raj-sharma-7a6281385/) &nbsp;&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white&gradient=linear)](https://instagram.com/_itz_raj009_)
 
 ---
