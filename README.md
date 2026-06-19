@@ -1,6 +1,6 @@
 # Hi there, I'm  𝓡𝓪𝓳 𝓢𝓱𝓪𝓻𝓶𝓪 👋
 
-🚀 Strong Frontend Skills | Open to learning and projects
+🚀 Full Stack Developer | Building Scalable Web Applications | Open to Learning & Collaboration
 
 ---
 
