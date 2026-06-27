@@ -12,17 +12,13 @@ I'm a passionate **Full Stack Developer** who enjoys building modern, scalable, 
 - ⚡ Always exploring new technologies
 - 🎯 Turning ideas into real-world products
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&width=500&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Apps;Always+Learning+New+Things" />
-
 </td>
 
 <td width="45%" align="center">
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="420"/>
 
-### 💻 Code Learn Repeat
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=300&lines=Code;Learn;Repeat" />
 
 </td>
 </tr>
@@ -34,9 +30,9 @@ I'm a passionate **Full Stack Developer** who enjoys building modern, scalable, 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RajSharma83&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RajSharma83&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -46,7 +42,7 @@ I'm a passionate **Full Stack Developer** who enjoys building modern, scalable, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajSharma83&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -56,7 +52,7 @@ I'm a passionate **Full Stack Developer** who enjoys building modern, scalable, 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=RajSharma83&theme=algolia&no-frame=true&column=4" />
 
 </div>
 
