@@ -18,7 +18,7 @@ I'm a passionate **Full Stack Developer** who enjoys building modern, scalable, 
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="420"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=300&lines=Code;Learn;Repeat" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=320&lines=Code;Learn;Repeat" />
 
 </td>
 </tr>
@@ -62,7 +62,7 @@ I'm a passionate **Full Stack Developer** who enjoys building modern, scalable, 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajSharma83&theme=tokyo-night&hide_border=true" />
 
 </div>
 
