@@ -1,27 +1,41 @@
-# Hi there, I'm  𝓡𝓪𝓳 𝓢𝓱𝓪𝓻𝓶𝓪 👋
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Raj Sharma</h1>
+<h3 align="center">🚀 Full Stack Developer</h3>
 
-🚀 Full Stack Developer | Building Scalable Web Applications | Open to Learning & Collaboration
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=RajSharma83">
+    <img src="https://komarev.com/ghpvc/?username=RajSharma83&label=Profile%20views&color=00FFFF&style=flat-square" alt="RajSharma83's profile views" />
+  </a>
+</p>
 
----
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RajSharma83&theme=radical&hide_border=true&cache_seconds=86400" alt="RajSharma83's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=RajSharma83&theme=radical&radius=10" alt="RajSharma83's Activity Graph" />
+</p>
 
-### 💫 About Me
-Passionate about coding, exploring new technologies, and building interesting projects.  
-Always eager to learn and grow in the tech world.
 
----
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/RajSharma83">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RajSharma83&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
-### 🔗 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&gradient=linear)](https://github.com/RajSharma83) &nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&gradient=linear)](https://www.linkedin.com/in/raj-sharma-7a6281385/) &nbsp;&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white&gradient=linear)](https://instagram.com/_itz_raj009_)
+![Top language](https://stats.pphat.top/languages?username=RajSharma83)
+<br/>
 
----
+## 💬 Quote
+> "Code, Learn, Repeat!" ✨
 
-### 🌟 Fun Section
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00BFFF&center=true&vCenter=true&width=500&lines=Coding+%F0%9F%92%BB+%7C+Learning+%F0%9F%94%92+%7C+Building+%F0%9F%92%AD&pause=1000)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
----
-
-### 🎯 Motto
-"Code, Learn, Repeat!" ✨
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
