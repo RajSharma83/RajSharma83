@@ -1,11 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Raj Sharma</h1>
 <h3 align="center">🚀 Full Stack Developer</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=RajSharma83">
-    <img src="https://komarev.com/ghpvc/?username=RajSharma83&label=Profile%20views&color=00FFFF&style=flat-square" alt="RajSharma83's profile views" />
-  </a>
-</p>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
