@@ -1,66 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:06B6D4&text=Raj%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descAlignY=58" />
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" />
 
-# 👋 Hi, I'm Raj Sharma
+# Hi 👋 I'm Raj Sharma
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Open+Source+Contributor" />
+### 🚀 Full Stack Developer | Building Scalable Web Applications
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Next.js;Passionate+about+Clean+Code;Always+Learning+New+Technologies" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-💻 Passionate **Full Stack Developer** who enjoys building scalable, fast, and modern web applications.
+```javascript
+const raj = {
+    name: "Raj Sharma",
+    role: "Full Stack Developer",
+    location: "India 🇮🇳",
 
-✨ I love transforming ideas into real-world products using clean code and modern technologies.
+    passion: "Building modern, scalable and user-friendly web applications.",
 
-🌱 Currently exploring:
+    currentlyLearning: [
+        "System Design",
+        "Cloud Computing",
+        "DevOps",
+        "AI Integration"
+    ],
 
-- Advanced System Design
-- Cloud Computing
-- AI Integration
-- DevOps
+    funFact: "I enjoy turning complex problems into simple solutions.",
 
-🎯 Goal:
-> Build impactful software that solves real-world problems.
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite,redux" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman,linux,vercel,netlify" />
-</p>
+    motto: "Build. Learn. Improve. Repeat."
+}
+```
 
 ---
 
-# ⚡ GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
@@ -82,7 +67,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&column=4"/>
 
 </div>
 
@@ -95,6 +80,15 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
+---
+
+# 🚀 Current Focus
+
+- 🌱 Learning System Design & Cloud Computing
+- 🚀 Building scalable Full Stack Applications
+- 🤝 Contributing to Open Source
+- 💡 Exploring AI-powered web experiences
 
 ---
 
@@ -111,36 +105,22 @@
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
-
 <div align="center">
 
-> **"First, solve the problem. Then, write the code."**  
-> — John Johnson
+### 💭 Quote
 
-</div>
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*  
+> **— Harold Abelson**
 
 ---
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"/>
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+⭐ Thanks for visiting my profile!
 
 </div>
