@@ -24,19 +24,6 @@ I'm a passionate **Full Stack Developer** who enjoys building modern, scalable, 
 </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RajSharma83&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RajSharma83&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 📈 Most Used Languages
 
@@ -48,15 +35,6 @@ I'm a passionate **Full Stack Developer** who enjoys building modern, scalable, 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RajSharma83&theme=algolia&no-frame=true&column=4" />
-
-</div>
-
----
 
 ## 📊 Contribution Graph
 
