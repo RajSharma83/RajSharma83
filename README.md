@@ -16,7 +16,7 @@ I'm a passionate **Full Stack Developer** who enjoys building modern, scalable, 
 
 <td width="45%" align="center">
 
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="420"/>
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="370"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=320&lines=Code;Learn;Repeat" />
 
@@ -26,12 +26,6 @@ I'm a passionate **Full Stack Developer** who enjoys building modern, scalable, 
 
 
 ## 📈 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajSharma83&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
  ![Top language](https://stats.pphat.top/languages?username=RajSharma83)
 <br/>
@@ -61,15 +55,15 @@ I'm a passionate **Full Stack Developer** who enjoys building modern, scalable, 
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/RajSharma83">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/raj-sharma-7a6281385/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:hellojavaos@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
