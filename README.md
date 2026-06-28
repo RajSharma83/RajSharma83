@@ -33,6 +33,8 @@ I'm a passionate **Full Stack Developer** who enjoys building modern, scalable, 
 
 </div>
 
+ ![Top language](https://stats.pphat.top/languages?username=RajSharma83)
+<br/>
 ---
 
 
