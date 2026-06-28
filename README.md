@@ -5,7 +5,7 @@
 <h1>
   Hey
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" />
-  I'm 𝙍𝙖𝙟 𝙎𝙝𝙖𝙧𝙢𝙖
+  I'm  𝙍𝙖𝙟 𝙎𝙝𝙖𝙧𝙢𝙖
 </h1>
 
 I'm a passionate **Full Stack Developer** who enjoys building modern, scalable, and user-friendly web applications.
