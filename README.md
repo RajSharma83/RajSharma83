@@ -5,9 +5,7 @@
 <h1>
   Hey
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" />
-  I'm
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=2500&pause=8000&color=22D3EE&center=true&vCenter=true&repeat=true&width=250&height=50&lines=𝙍𝙖𝙟 𝙎𝙝𝙖𝙧𝙢𝙖"
-    alt="Raj Sharma" style="vertical-align: middle;"/>
+  I'm 𝙍𝙖𝙟 𝙎𝙝𝙖𝙧𝙢𝙖
 </h1>
 
 I'm a passionate **Full Stack Developer** who enjoys building modern, scalable, and user-friendly web applications.
