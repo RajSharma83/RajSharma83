@@ -2,7 +2,13 @@
 <tr>
 <td width="55%" valign="top">
 
-# 👋 Hi, I'm Raj Sharma
+<h1>
+  Hey
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" />
+  I'm
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=2500&pause=8000&color=22D3EE&center=true&vCenter=true&repeat=true&width=250&height=50&lines=𝙍𝙖𝙟 𝙎𝙝𝙖𝙧𝙢𝙖"
+    alt="Raj Sharma" style="vertical-align: middle;"/>
+</h1>
 
 I'm a passionate **Full Stack Developer** who enjoys building modern, scalable, and user-friendly web applications.
 
@@ -18,7 +24,7 @@ I'm a passionate **Full Stack Developer** who enjoys building modern, scalable, 
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="370"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=320&lines=Code;Learn;Repeat" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=3200&pause=2000&color=22D3EE&center=true&vCenter=true&repeat=true&width=500&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Repeat" />
 
 </td>
 </tr>
